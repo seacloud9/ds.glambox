@@ -11,7 +11,9 @@ ds.glamBox
 (:   _(  _( \_|:  \ /   /  \\  \|.  \    /:  |: |_)  :)        //  \   \  
  \_______) \_______|___/    \___)___|\__/|___(_______/ \"_____/|___/\___| 
                                                                           
-This product was enabled by thousands of passionate developers including but not limited to the following:
+This product was enabled by thousands of passionate developers including 
+but not limited to the following:\
+
 http://en.wikipedia.org/wiki/Brendan_Eich
 http://ricardocabello.com/blog
 http://ejohn.org/
@@ -25,7 +27,7 @@ http://hypeframework.org/
 https://processing.org/
 by SeaCloud9 - made with passion somewhere on the left coast -> under a MIT license 
 
-In short it's like a soundcloud juteBox plus your own persoanl virtualVJ
+In short it's like a soundcloud juteBox plus your own personal virtualVJ
 </pre>
 </div>
 
