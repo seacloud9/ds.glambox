@@ -27,7 +27,7 @@ http://hypeframework.org/
 https://processing.org/
 by SeaCloud9 - made with passion somewhere on the left coast -> under a MIT license 
 
-In short it's like a soundcloud juteBox plus your own personal virtualVJ
+In short it's like a soundcloud jukeBox plus your own personal virtualVJ
 </pre>
 </div>
 
